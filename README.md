@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [zeyadamr.netlify.app](zeyadamr.netlify.app)
+- 👨‍💻 All of my projects are available at [zeyadamr.netlify.app](https://zeyadamr.netlify.app)
 
 - 📫 How to reach me **zeyad8amr88@gmail.com**
 
